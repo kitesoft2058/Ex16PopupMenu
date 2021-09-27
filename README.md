@@ -24,4 +24,5 @@ PopupMenu 추가하기 [이전 컨텍스트메뉴와 다르게 원하는 위치�
 # 실행모습 GIF
 <div>
   <img src="GIF.gif" width="20%"/>
+  <img src="GIF2.gif" width="20%"/>
 </div>
